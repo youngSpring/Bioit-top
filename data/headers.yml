@@ -2,9 +2,6 @@
   icon: fa fa-home
   link: "./"
 
-- item: 作者
-  icon: fab fa-hive
-  link: https://weiyan.cc
 
 - item: 设置
   icon: fa fa-cog
